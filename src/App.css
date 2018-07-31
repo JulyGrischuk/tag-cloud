@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.tag-cloud {
+    margin: 20px auto;
+    width: 75%;
+    text-align: center;
+}
+
+.tag-cloud li{
+    display: inline-block;
+}
+
+a {
+    color: black;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.tag-info {
+    margin: 20px;
+    font-size: 1em;
+}
+
+.tag-info ul {
+    list-style-type: circle;
+}
+
+.tag-info a:before {
+    content: '<< ';
+}
