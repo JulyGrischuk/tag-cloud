@@ -1,3 +1,10 @@
+Please following steps to run the project: 
+1)git clone https://github.com/JulyGrischuk/tag-cloud.git
+2)nmp install  
+3)npm start
+
+Technical specification:
+
 Write tag cloud based on data
 
 Description:
